@@ -362,7 +362,7 @@ async def main():
     service, request_limit, filename, cloudflare, filetype, gateway, run_command, dns_server_indices, mk_list_name = read_config('config.ini')
 
     # Load URLs
-    platform_db_url = "https://raw.githubusercontent.com/Ground-Zerro/DomainMapper/main/platformdb"
+    platform_db_url = "https://raw.githubusercontent.com/Noatitauaggi/DomainMapper/main/platformdb"
     urls = await load_urls(platform_db_url)
 
     # Load local DNS names from "custom-dns-list.txt" if it exists
