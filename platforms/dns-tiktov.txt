@@ -17,3 +17,5 @@ gx.games
 create.gx.games
 pbs.twimg.com
 twimg.com
+opera-api2.com
+opera-api.com
