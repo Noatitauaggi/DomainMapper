@@ -30,3 +30,7 @@ a2-17-39-88.deploy.static.akamaitechnologies.com
 ec2-35-155-214-35.us-west-2.compute.amazonaws.com
 a2-22-36-244.deploy.static.akamaitechnologies.com
 a2-17-39-100.deploy.static.akamaitechnologies.com
+ec2-34-212-206-175.us-west-2.compute.amazonaws.com
+a2-19-183-133.deploy.static.akamaitechnologies.com
+a96-16-161-103.deploy.static.akamaitechnologies.com
+a2-19-183-153.deploy.static.akamaitechnologies.com
