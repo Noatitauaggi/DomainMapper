@@ -1,4 +1,1 @@
-chobit.cc
-ci-en.dlsite.com
-img.dlsite.jp
-amnezia.org
+satoshi.opera.api2.com
