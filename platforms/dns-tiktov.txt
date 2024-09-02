@@ -96,7 +96,6 @@ login.amd.com
 lib.rus.ec
 libgen.rs
 linkedin.com
-korrespondent.net
 kino.pub
 kinobase.org
 kinokopilka.pro
