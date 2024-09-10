@@ -166,3 +166,4 @@ twimg.com
 sentry-relay.opera-api.com
 omposer.opera-api.com
 gofile.io
+simpcity.su
